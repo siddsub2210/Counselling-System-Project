@@ -1,0 +1,55 @@
+Number of IITs: 30
+Number of NITs: 30
+Total number of seats: 60
+IIT DETAILS:
+---------Bombay---------
+CSE:2
+IT:1
+ECE:2
+EEE:1
+---------Delhi---------
+CSE:1
+IT:2
+ECE:1
+EEE:2
+---------Kharagpur---------
+CSE:1
+IT:2
+ECE:1
+EEE:2
+---------Madras---------
+CSE:2
+IT:1
+ECE:1
+EEE:1
+---------Goa---------
+CSE:2
+IT:2
+ECE:1
+EEE:2
+NIT DETAILS:
+---------Suratkal---------
+CSE:2
+IT:1
+ECE:2
+EEE:1
+---------Warangal---------
+CSE:1
+IT:2
+ECE:1
+EEE:2
+---------Trichy---------
+CSE:1
+IT:2
+ECE:1
+EEE:2
+---------Calicut---------
+CSE:2
+IT:1
+ECE:1
+EEE:1
+---------Rourkela---------
+CSE:2
+IT:2
+ECE:1
+EEE:2
